@@ -58,7 +58,7 @@ Good:
 
 3. The next is the link to the issues for cross-ref (if needed)
 
-Laundry list
+Laundry List
 ------------
 
 1. Write understandable code. No need to be too terse (or even obfuscated).
